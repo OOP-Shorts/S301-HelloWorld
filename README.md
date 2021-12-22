@@ -6,4 +6,6 @@ In dieser Aufgabe beschäftigst du dich mit dem ersten aller Programme: "Hello W
 
 ## Lernvideos zum Thema
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ed5DLI-JWUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315"
+src="https://www.youtube-nocookie.com/embed/ed5DLI-JWUE">
+</iframe> 
